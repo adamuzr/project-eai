@@ -1,4 +1,3 @@
-
 import requests
 
 # Define the API endpoint
